@@ -1,1 +1,3 @@
-console.log("Vscode start");
+
+const BDAY = '02-09';
+
